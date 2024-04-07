@@ -12,7 +12,7 @@
     box-sizing: border-box;
     font-family: 'montserrat';
     color: #fff;
-    /* cursor: none; */
+    cursor: none;
 }
 *::selection {
     background-color: #fff;
